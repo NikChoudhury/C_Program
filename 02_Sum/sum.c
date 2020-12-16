@@ -12,3 +12,5 @@ int main()
     getch();
     return 0;
 }
+
+// gcc sum.c -o sum.exe
