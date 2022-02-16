@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1644995615 source:d:\cprogram\functions\with_arguments_and_with_return_value\main.c
+	<stdio.h>
+	<stdlib.h>
+

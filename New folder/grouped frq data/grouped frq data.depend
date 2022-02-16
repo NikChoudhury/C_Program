@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1644663047 source:d:\cprogram\grouped freq data\grouped frq data\main.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
+1644662935 source:d:\cprogram\grouped freq data\grouped frq data\test.c
+	<stdio.h>
+	<math.h>
+

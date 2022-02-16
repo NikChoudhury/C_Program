@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1644657988 source:d:\cprogram\median of array\array sorting\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
