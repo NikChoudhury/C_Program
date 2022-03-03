@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1645298062 source:d:\cprogram\functions\multiplication table\multiplication_table\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1645299066 source:d:\cprogram\exercise\multiplication table\multiplication_table\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

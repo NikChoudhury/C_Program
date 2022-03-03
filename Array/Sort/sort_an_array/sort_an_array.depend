@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645624269 source:d:\cprogram\array\sort\sort_an_array\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

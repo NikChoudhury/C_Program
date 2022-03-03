@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645968293 source:d:\cprogram\exercise\matrix\matrix1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

@@ -1,11 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+#include <conio.h>
+int a,b;
+void inputValue();
 int add();
 int sub();
 int mult();
 int divi();
-
+/*
 int main(){
     int a,b;
     int choice;
@@ -50,6 +52,66 @@ int main(){
     }
     getch();
     return 0;
+}
+
+*/
+int main(){
+
+    char choice;
+    while(1){
+        printf("----------------\n");
+        printf("Enter '+' for addition \n");
+        printf("Enter '-' for Subtraction \n");
+        printf("Enter '*' for Multiplication \n");
+        printf("Enter '/' for division \n");
+        printf("Enter 'Q' for Quit\n");
+        printf("Enter your choice:");
+        scanf("%s",&choice);
+        printf("----------------\n");
+
+        switch(choice){
+            case '+':
+                inputValue();
+                printf("%d + %d = %d\n", a, b, add(a,b));
+                break;
+            case '-':
+                inputValue();
+                printf("%d - %d = %d\n", a, b, sub(a,b));
+                break;
+            case '*':
+                inputValue();
+                printf("%d x %d = %d\n", a, b, mult(a,b));
+                break;
+            case '/':
+                inputValue();
+                if(b !=0)
+                    printf("%d / %d = %d\n", a, b, divi(a,b));
+                else
+                    printf("Number can't be divided by 0\n");
+                break;
+            case 'q':
+            case 'Q':
+                exit(1);
+                break;
+            default: printf("You entered wrong choice\n");
+                 break;
+
+
+
+        }
+
+    }
+
+    getch();
+    return 0;
+
+}
+
+void inputValue(){
+
+    printf("Enter 2 integer numbers\n");
+    scanf("%d %d", &a, &b);
+
 }
 
 int add(int a, int b){

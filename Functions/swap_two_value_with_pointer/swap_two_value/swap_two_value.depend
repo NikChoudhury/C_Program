@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645300206 source:d:\cprogram\functions\swap_two_value_with_pointer\swap_two_value\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

@@ -1,5 +1,6 @@
 # depslib dependency file v1.0
-1644842249 source:d:\cprogram\switch_case\switc_case\main.c
+1645791627 source:d:\cprogram\switch_case\switc_case\main.c
 	<stdio.h>
 	<stdlib.h>
+	<conio.h>
 

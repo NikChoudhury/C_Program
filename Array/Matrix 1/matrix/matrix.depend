@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1645703938 source:d:\cprogram\array\matrix 1\matrix\test.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1645703931 source:d:\cprogram\array\matrix 1\matrix\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645440719 source:d:\cprogram\functions\recursive_function\fibonacci\fibonacci\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

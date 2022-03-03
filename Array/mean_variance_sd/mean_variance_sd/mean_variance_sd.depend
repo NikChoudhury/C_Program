@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1645964377 source:d:\cprogram\array\mean_variance_sd\mean_variance_sd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+

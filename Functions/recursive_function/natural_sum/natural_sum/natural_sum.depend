@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645182013 source:d:\cprogram\functions\recursive_function\natural_sum\natural_sum\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

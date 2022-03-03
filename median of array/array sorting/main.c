@@ -1,8 +1,9 @@
 /*Sorting of an array and hence finding median*/
 #include <stdio.h>
 #include <stdlib.h>
-#include <math.h>
+#include <conio.h>
 #define SIZE 1024
+
 int main()
 {
     int i,j,n;
@@ -15,7 +16,7 @@ int main()
     for(i=0;i<n;i++){
         scanf("%f",&a[i]);
     }
-    //Sorting Ascending
+    //Sorting in Ascending Order
     for(i=0;i<n-1;i++){
         for(j=0;j<n-1-i;j++){
             if(a[j]>a[j+1]){
